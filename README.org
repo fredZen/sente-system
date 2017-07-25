@@ -1,4 +1,9 @@
 * Sente example app
+
+** Deprecation notice
+
+This project is not going to be maintained further by me. If there are any volunteers to take over, please come forward. I recommend referring to [[https://github.com/danielsz/system-websockets][system-websockets]] for wiring Sente in Clojure projects.
+
 ** What is this?
 
 The [[https://github.com/ptaoussanis/sente/tree/master/example-project][example app]] from Sente, but for [[https://github.com/danielsz/system][system]] (componentized and bootified).
